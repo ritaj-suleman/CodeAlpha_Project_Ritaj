@@ -1,4 +1,4 @@
-// Question 6 Number Guessing Game 
+// Number Guessing Game 
 #include <iostream>
 #include <stdlib.h>
 #include <ctime>
